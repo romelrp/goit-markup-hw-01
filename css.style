@@ -1,0 +1,14 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+:root {
+    --iriscolor: #4D5AE5;
+    --navyblue: #2E2F42;
+    --navcolor: black;
+    --oceancolor: #2196F3;
+    --whitecolor: white;
+    --slatecolor: #434455;
+}
